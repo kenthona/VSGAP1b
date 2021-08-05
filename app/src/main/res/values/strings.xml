@@ -1,0 +1,15 @@
+<resources>
+    <string name="AplikasiKalkulator">VSGAP1b</string>
+    <string name="masukkan_dua_angka">MASUKKAN DUA ANGKA</string>
+    <string name="angka_pertama">ANGKA PERTAMANYA APA NENG</string>
+    <string name="angka_kedua">ANGKA KEDUANYA HAYOOOO!</string>
+    <string name="angka_pertama_input">Angka Pertama</string>
+    <string name="angka_kedua_input">Angka Kedua</string>
+    <string name="tambahin">+</string>
+    <string name="kurangin">-</string>
+    <string name="bagiin">:</string>
+    <string name="kaliin">x</string>
+    <string name="clear">CLEAR</string>
+    <string name="hasil">HASIL</string>
+    <string name="angkahasil">0</string>
+</resources>
